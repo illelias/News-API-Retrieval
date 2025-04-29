@@ -1,4 +1,4 @@
-# Mini Project: News API Analysis
+# News API Retrieval
 
 ## Overview
 This project utilizes the OpenAI API and The Guardian API to fetch and analyze news articles related to specific topics. The code processes the data using Python and Pandas to extract useful insights from the retrieved news articles.
